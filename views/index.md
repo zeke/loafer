@@ -1,6 +1,9 @@
-Hello, World
-============
+![Loafer](/images/loafer.png)
 
-This is a sample app using compass, foreman, haml, sass, compass, and markdown.
+It works!
+=========
 
+Now quit loafing and start building your special little app.
 
+Love,  
+[Zeke](https://twitter.com/#!/zeke)

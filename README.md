@@ -7,3 +7,12 @@ Loafer is a Sinatra template app set up with:
 - Sass/Compass
 - CoffeeScript
 - Foreman
+
+To use it:
+
+    git clone https://github.com/zeke/loafer.git
+    cd loafer
+    rm -rf .git
+    bundle
+    foreman start
+    
