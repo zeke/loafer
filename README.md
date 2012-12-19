@@ -1,6 +1,6 @@
 ![Loafer](http://f.cl.ly/items/010Q0K3p2F3h2u0m2p1R/loafer.png)
 
-Loafer is a Sinatra template app set up with:
+Loafer is a boilerplate Sinatra app set up with:
 
 - Haml
 - Markdown
@@ -10,9 +10,14 @@ Loafer is a Sinatra template app set up with:
 
 To use it:
 
-    git clone https://github.com/zeke/loafer.git
-    cd loafer
-    rm -rf .git
-    bundle
-    foreman start
-    
+```
+git clone git://github.com/zeke/loafer.git new_hotness
+cd new_hotness
+rm -rf .git
+bundle
+foreman start
+```
+
+You're up and running at [localhost:5000](http://localhost:5000).
+
+
